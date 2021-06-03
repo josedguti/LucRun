@@ -1,6 +1,6 @@
-# React.JS Travel App
+# React.JS LucRun Running WebApp
 
-Fully responsive Travel app, where I practice my styling skills using React.JS framework and Bootstrap.
+Fully responsive Running app, where I practice my skills using the React.js framework, Bootstrap and more...
 
 ## ⚙️ Technologies Used
 
@@ -20,8 +20,9 @@ Fully responsive Travel app, where I practice my styling skills using React.JS f
 ![websitepic2](src/images/websitepic2.png)
 
 ## 🔌 Getting Started
-[Click](https://joseramdonwebsitee.netlify.app/) to get started and see the app live!
+[Click](https://lucrun.netlify.app/) to get started and see the app live!
 
 ## 🛠 Future Enhancements
 
-- Have more content display in the Services and Products section.
+- Accept Paypal payments.
+- Integrate running events API.

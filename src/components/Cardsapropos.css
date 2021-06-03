@@ -1,19 +1,22 @@
 .cards {
     padding: 3rem;
     background: #fff;
-  }
+}
+
+.youtube {
+    margin-top: 20px;
+}
   
-  h1 {
+h1 {
     text-align: center;
     margin-bottom: 25px;
-  }
+}
 
-  p {
-      margin-left: 350px;
-      margin-right: 350px;
-  }
+p {
+     text-align: center;
+}
   
-  .cards_container {
+.cards_container {
     display: flex;
     flex-flow: column;
     align-items: center;
@@ -38,6 +41,13 @@
     border-radius: 10px;
   }
   
+  .cards_items1 {
+    display: flex;
+    flex: 1;
+    margin: 0 25rem;
+    border-radius: 10px;
+  }
+
   .cards_item_link {
     display: flex;
     flex-flow: column;
@@ -105,7 +115,62 @@
     line-height: 24px;
     text-align: center;
   }
+
+  .help {
+      display: flex;
+      justify-content: center;
+      height: 55px;
+      margin-top: 30px;
+  }
+
+  .fa-running {
+    margin-left: 0.4rem;
+    margin-top: 0.5rem;
+    font-size: 1.8rem;
+  }
+
+  .help1 {
+    border: 2px solid grey;
+    border-radius: 50px 50px 50px;
+    font-size: 16px;
+    width: 200px;
+    text-align: center;
+    box-shadow: 5px 10px 8px #888888;
+    margin-right: 30px;
+  }
+
+  .help2 {
+    border: 2px solid grey;
+    border-radius: 50px 50px 50px;
+    font-size: 16px;
+    width: 230px;
+    text-align: center;
+    box-shadow: 5px 10px 8px #888888;
+    margin-right: 30px;
+  }
+
+  .help3 {
+    border: 2px solid grey;
+    border-radius: 50px 50px 50px;
+    font-size: 16px;
+    width: 200px;
+    text-align: center;
+    box-shadow: 5px 10px 8px #888888;
+    margin-right: 30px;
+  }
   
+.help3:hover {
+    background-color: grey;
+}
+
+.help2:hover {
+    background-color: grey;
+}
+
+.help1:hover {
+    background-color: grey;
+}
+
   @media only screen and (min-width: 1200px) {
     .content_blog_container {
       width: 84%;
