@@ -60,7 +60,7 @@
     content: attr(data-category);
     position: absolute;
     bottom: 0;
-    margin-left: 195px;
+    margin-left: 170px;
     padding: 5px 7px;
     max-width: calc((100%) - 60px);
     font-size: 13px;
