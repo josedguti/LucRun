@@ -196,20 +196,24 @@ p {
     .youtube {
       margin-top: 3rem;
       margin-bottom: 10rem;
+      
     }
 
     .help1 {
       font-size: 12px;
       height: 80px;
+      width: 217px;
     }
 
     .help2 {
       font-size: 12px;
       height: 80px;
+      width: 240px;
     }
 
     .help3 {
       font-size: 14px;
       height: 80px;
+      width: 217px;
     }
   }
