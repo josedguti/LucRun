@@ -1,5 +1,4 @@
 import React from 'react';
-
 import CardItem from './CardItem';
 import './Cardsapropos.css';
 import Youtube from './Youtube';
@@ -23,10 +22,10 @@ function Cardsapropos() {
                     <h3>List Item <i className='fas fa-running' /></h3>
                 </div>
             </div>
-
-            <h1 className='youtube'>Video</h1>
+            <div className='youtube'>
+            
                 <Youtube embedId="yzSDJfHXfBw" />   
-                
+            </div>   
                  
             
             <div className="cards_container">

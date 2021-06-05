@@ -4,7 +4,11 @@
 }
 
 .youtube {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     margin-top: 20px;
+
 }
   
 h1 {
@@ -181,10 +185,31 @@ p {
     .cards_items {
       display: flex;
     }
+    
   }
   
   @media only screen and (max-width: 1024px) {
     .cards_item {
       margin-bottom: 2rem;
+    }
+
+    .youtube {
+      margin-top: 3rem;
+      margin-bottom: 10rem;
+    }
+
+    .help1 {
+      font-size: 12px;
+      height: 80px;
+    }
+
+    .help2 {
+      font-size: 12px;
+      height: 80px;
+    }
+
+    .help3 {
+      font-size: 14px;
+      height: 80px;
     }
   }
