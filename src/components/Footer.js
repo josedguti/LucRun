@@ -32,7 +32,7 @@ function Footer() {
                             <i className="fab fa-instagram" />
                         </Link>
                         <Link className="social-icon-link youtube"
-                        to='/'
+                        to='https://www.instagram.com/luc.run/'
                         target='_blank'
                         aria-label='Youtube'
                         >
