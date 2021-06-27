@@ -29,6 +29,11 @@
     align-items: center;
   }
 
+  .logo {
+    height: 60px;
+    width: 60px;
+  }
+
   
   
   .fa-running {
@@ -118,9 +123,10 @@
   
     .navbar-logo {
       position: absolute;
-      top: 0;
+      margin-bottom: 60px;
       left: 0;
       transform: translate(25%, 50%);
+      margin-top: 1px;
     }
   
     .menu-icon {
