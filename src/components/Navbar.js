@@ -31,7 +31,7 @@ function Navbar() {
         <nav className='navbar'>
             <div className='navbar-container'>
                 <Link to='/' className='navbar-logo' onClick={closeMobileMenu}>
-                    Luc Run <i className='fas fa-running' />
+                    <img className='logo' src="https://i.imgur.com/75m33qZ.png" alt="logo" />
                 </Link>
                 <div className='menu-icon' onClick={handleClick}>
                     <i className={click ? 'fas fa-times' : 'fas fa-bars'} /> 
