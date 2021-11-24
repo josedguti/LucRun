@@ -32,7 +32,7 @@ function Footer() {
                             <i className="fab fa-instagram" />
                         </Link>
                         <Link className="social-icon-link youtube"
-                        to='https://www.instagram.com/luc.run/'
+                        to='/'
                         target='_blank'
                         aria-label='Youtube'
                         >
@@ -45,7 +45,7 @@ function Footer() {
                 <div className="footer-link-wrapper">
                     <div className="footer-link-items">
                         <h2>A propos</h2>
-                        <Link to='/sign-up'>Qui suis-je</Link>
+                        <Link to='/'>Qui suis-je</Link>
                         <Link to='/'>Témoignages</Link>
                         <Link to='/'>CGP</Link>
                     </div>

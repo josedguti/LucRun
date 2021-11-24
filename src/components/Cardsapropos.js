@@ -37,19 +37,19 @@ function Cardsapropos() {
                         src='images/11.png'
                         text='Trail -20km'
                         label='Details'
-                        path='/services'
+                        path='/'
                         />
                         <CardItem 
                         src='images/10.png'
                         text='Trail 20 à 50km'
                         label='Details'
-                        path='/products'
+                        path='/'
                         />
                         <CardItem 
                         src='images/9.png'
                         text='Ultra +50km'
                         label='Details'
-                        path='/sign-up'
+                        path='/'
                         />
                     </ul>
                 </div>
