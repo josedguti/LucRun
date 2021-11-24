@@ -48,22 +48,22 @@ function Navbar() {
                         </Link>
                     </li>
                     <li className='nav-item'>
-                        <Link to='/products' className='nav-links' onClick={closeMobileMenu}>
+                        <Link to='/' className='nav-links' onClick={closeMobileMenu}>
                         Entraînements
                         </Link>
                     </li>
                     <li className='nav-item'>
-                        <Link to='/products' className='nav-links' onClick={closeMobileMenu}>
+                        <Link to='/' className='nav-links' onClick={closeMobileMenu}>
                         Conseils
                         </Link>
                     </li>
                     <li className='nav-item'>
-                        <Link to='/products' className='nav-links' onClick={closeMobileMenu}>
+                        <Link to='/' className='nav-links' onClick={closeMobileMenu}>
                         Contact
                         </Link>
                     </li>
                     <li className='nav-item'>
-                        <Link to='/sign-up' className='nav-links' onClick={closeMobileMenu}>
+                        <Link to='/' className='nav-links' onClick={closeMobileMenu}>
                             Mon Compte
                         </Link>
                     </li>
